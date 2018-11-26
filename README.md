@@ -57,7 +57,7 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 </tr>
 
 <tr aling="Center">
-  <td>
+  <td colspan="3">
      <img class=" aligncenter wp-image-5141" title="Montagem Final"        src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg" alt="Montagem Final">
   </td>
 </tr>
