@@ -31,6 +31,12 @@
   <td>
     <img class=" alingcenter wp-image-5141" title="Montagem" src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg">
   </td>
+  
+   <tr align="center">
+    <td>Kit Chassis 2WD </td>
+    <td>Carrinho montado </td>
+  </tr>
+  
 </tr>
 
 </table>
