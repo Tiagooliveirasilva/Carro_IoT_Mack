@@ -41,3 +41,15 @@
 
 </table>
 
+# Esquema Eletrico
+------------------
+<table class="table table-hover table-striped table-bordered" > 
+  <tr>
+    <td>
+       <img class=" alingcenter wp-image-5141" title="Montagem" src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg">
+    </td>
+  </tr>
+  <tr aling="center">
+    <td> Esquema Elétrico [Carro_IoT_Mackenzie]  </td>
+  </tr>
+</table>
