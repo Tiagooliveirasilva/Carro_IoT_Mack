@@ -13,4 +13,4 @@ o design de um interruptor de alimentação
 a tensão para o motor: 4,5 V-36 V
 a tensão para o cartão de controle ESP: 4,5 V 9 V
 
-* NodeMCU mais detalhes, pode ser encontrado em www.nodemcu.com (https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu)
+* NodeMCU mais detalhes, pode ser encontrado em https://github.com/nodemcu/nodemcu-firmware
