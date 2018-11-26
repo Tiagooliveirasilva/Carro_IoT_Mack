@@ -13,7 +13,7 @@
 O projeto consiste em um robô equipado com um módulo ESP8266  e MotorShiled NodeMCU, controlado via Internet por MQTT. Tal robô utilizará duas rodas para locomoção, sendo capaz de se movimentar em quatro direções: para frente, para tras, para esquerda e para a direita. 
 
 
-##Utilizar MQTT para este controle permitirá:
+## Utilizar MQTT para este controle permitirá:
 
 Controle do robô IoT com ESP8266 NodeMCU a partir de um aplicativo
 Controle do robô de qualquer lugar do planeta que possua conexão com a Internet
@@ -21,10 +21,22 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 
 <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://uploads.filipeflop.com/2016/08/DiagramaRoboIoT.jpg">
   
+# Esquema Eletrico
+------------------
+<table class="table table-hover table-striped table-bordered" > 
+  <tr>
+    <td>
+       <img class=" alingcenter wp-image-5141" title="Montagem" src="https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Esquema_Eletrico/EsquemaEletrico.jpg">
+    </td>
+  </tr>
+  <tr aling="center">
+    <td> Esquema Elétrico [Carro_IoT_Mackenzie]  </td>
+  </tr>
+</table>
 
 
-# Carro_IoT_Mack
-
+# Componentes
+--------------
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
    <td> <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://c.76.my/Malaysia/nodemcu-motor-shield-board-l293d-esp8266-nodemcu-v2-npstore-1706-05-NPSTORE@1.jpg" alt="Pinagem ESP8266 NodeMCU">
@@ -57,18 +69,7 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 
 </table>
 
-# Esquema Eletrico
-------------------
-<table class="table table-hover table-striped table-bordered" > 
-  <tr>
-    <td>
-       <img class=" alingcenter wp-image-5141" title="Montagem" src="https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Esquema_Eletrico/EsquemaEletrico.jpg">
-    </td>
-  </tr>
-  <tr aling="center">
-    <td> Esquema Elétrico [Carro_IoT_Mackenzie]  </td>
-  </tr>
-</table>
+
 
 
 
