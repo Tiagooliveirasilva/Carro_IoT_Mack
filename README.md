@@ -1,7 +1,7 @@
 # Carro_IoT_Mack
 
 # Disciplina: Objetos Inteligentes Conectados
-## Turma 05J - 2º semestre de 2018
+## Turma 05J11 - 2º semestre de 2018
 
 ### Integrantes do grupo:
 
