@@ -72,9 +72,9 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 # Acesso Compartilhado do Hardware
 ----------------------------
 * **[Baize o Aplicativo Blynk para Android ou IOS](https://www.blynk.cc/)** 
-* **escanear o código QR a partir da tela de login
-<table>
-  <tr>
+* **[escanear o código QR a partir da tela de login]** 
+<table class="table table-hover table-striped table-bordered>
+  <tr aling="center">
     <td><img class=" aligncenter wp-image-5141" title="Montagem Final" src="http://docs.blynk.cc/images/scan_qr.png">  </td>
     <td><img class=" alingcenter wp-image-5141" title="Montagem" src="https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Blynk/QR-CODE.jpg">     
        </td>
