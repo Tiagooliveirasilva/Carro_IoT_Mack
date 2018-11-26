@@ -13,14 +13,16 @@
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td> <img class=" aligncenter wp-image-5141" title="Pinagem NodeMCU" src="https://uploads.filipeflop.com/2016/02/Node-MCU-ESP-12E-Pin-Out-Diagram2.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648"> </td>  
-     
-</td>
-   <td><a href="https://http2.mlstatic.com/motor-shield-l293-arduino-carro-robo-para-nodemcu-D_NQ_NP_759725-MLB25496650854_042017-F.jpg" title="MotorShield NodeMcu"></a></td>
-  </tr>
+   <td> <img class=" aligncenter wp-image-5141" title="Pinagem NodeMCU" src="https://uploads.filipeflop.com/2016/02/Node-MCU-ESP-12E-Pin-Out-Diagram2.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648">
+    </td>  
+    </td>
+   <td>  
+  <img class=" aligncenter wp-image-5141" title="MotorShield NodeMcu" src="https://http2.mlstatic.com/motor-shield-l293-arduino-carro-robo-para-nodemcu-D_NQ_NP_759725-MLB25496650854_042017-F.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648">
+</td>  
+    </tr>
   <tr align="center">
-    <td>RedBot Mainboard [<a href="https://www.sparkfun.com/products/12097">ROB-12097</a>]</td>
-    <td>SparkFun Inventor's Kit for RedBot [<a href="https://www.sparkfun.com/products/12649">ROB-12649</a>]</td>
+    <td>NodeMcu ESP8266 [<a href="https://www.sparkfun.com/products/12097">ROB-12097</a>]</td>
+    <td>MotorShield NodeMCU [<a href="https://www.sparkfun.com/products/12649">ROB-12649</a>]</td>
   </tr>
 </table>
 
