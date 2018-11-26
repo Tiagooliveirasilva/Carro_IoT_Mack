@@ -13,7 +13,9 @@
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="https://www.sparkfun.com/products/12097"><img src="https://cdn.sparkfun.com/assets/parts/8/7/3/4/12097-01.jpg" title="RedBot Mainboard"></a></td>
+   <td>   <img class=" aligncenter wp-image-5141" title="Pinagem NodeMCU" src="https://uploads.filipeflop.com/2016/02/Node-MCU-ESP-12E-Pin-Out-Diagram2.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648"> </td>  
+     
+</td>
    <td><a href="https://www.sparkfun.com/products/12649"><img src="https://cdn.sparkfun.com//assets/parts/9/3/4/3/SIK_Shadow_Chasis.jpg" title="RedBot Inventor's Kit for RedBot"></a></td>
   </tr>
   <tr align="center">
