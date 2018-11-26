@@ -26,7 +26,7 @@
 
 <tr aling="center">
   <td>
-     <img class=" aligncenter wp-image-5141" title="Kit Chassis 2wd" src="https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Esquema_Eletrico/EsquemaEletrico.jpg" alt="Esquema Eletrico">
+     ![alt text](https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Esquema_Eletrico/EsquemaEletrico.jpg)" alt="Esquema Eletrico">
   </td>
   <td>
     <img class=" alingcenter wp-image-5141" title="Montagem" src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg">
