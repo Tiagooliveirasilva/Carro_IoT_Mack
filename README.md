@@ -47,7 +47,7 @@
 <table class="table table-hover table-striped table-bordered" > 
   <tr>
     <td>
-       <img class=" alingcenter wp-image-5141" title="Montagem" src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg">
+       <img class=" alingcenter wp-image-5141" title="Montagem" src="https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Esquema_Eletrico/EsquemaEletrico.jpg">
     </td>
   </tr>
   <tr aling="center">
