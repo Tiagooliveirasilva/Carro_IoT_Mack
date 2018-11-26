@@ -34,11 +34,10 @@
   
    <tr align="center">
     <td>Kit Chassis 2WD </td>
-    <td>Carrinho montado </td>
+    <td>Chassis 2WD + ModeMcu MotorShiled </td>
   </tr>
   
 </tr>
 
 </table>
 
-Design files and firmware files for the [RedBot Main board](https://www.sparkfun.com/products/11622).
