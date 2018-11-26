@@ -50,8 +50,8 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado, pode ser vi
     
     
  <tr align="center">
-    <td>NodeMcu ESP8266 + MotorShield </td>
-    <td>Pinagem MotorShield NodeMCU</td>
+    <td>NodeMcu ESP8266 </td>
+    <td>MotorShield NodeMCU</td>
     <td>Chassi 2WD [<a href="https://multilogica-shop.com/tutorial/montagem-passo-passo-do-kit-chassi-robotico-2wd"> Montagem ]</td>
   </tr>
 </tr>
