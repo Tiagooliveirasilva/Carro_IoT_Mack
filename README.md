@@ -42,7 +42,7 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
    <td> <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://cdn.awsli.com.br/600x700/78/78150/produto/5484377/f6630d94d0.jpg">
     </td>  
    <td>  
-  <img class=" aligncenter wp-image-5141" title="Pinagem MotorShield NodeMCU" src="https://i1.wp.com/blog.squix.org/wp-content/uploads/2015/09/NodeMcuMotorshield.jpg?resize=320%2C219&ssl=1" alt="Pinagem ESP8266 NodeMCU">
+  <img class=" aligncenter wp-image-5141" title="Pinagem MotorShield NodeMCU" src="https://uploads.filipeflop.com/2017/07/6WL46.jpg" alt="Pinagem ESP8266 NodeMCU">
 </td>  
     
  <tr align="center">
