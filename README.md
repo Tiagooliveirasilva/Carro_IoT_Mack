@@ -13,13 +13,13 @@
 O projeto consiste em um robô equipado com um módulo ESP8266  e MotorShiled NodeMCU, controlado via Internet por MQTT. Tal robô utilizará duas rodas para locomoção, sendo capaz de se movimentar em quatro direções: para frente, para tras, para esquerda e para a direita. 
 A interface controladora com o usuário será feita atraves do [<a href="https://www.sparkfun.com/products/12097">Blynk </a>]</td>
 
-## Utilizar MQTT para este controle permitirá:
+## Utilizar o Blynk (broker HTTP) para este controle permitirá:
 
 Controle robô IoT com ESP8266 NodeMCU a partir de um aplicativo de qualquer lugar do planeta que possua conexão com a Internet
 
 O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado, pode ser visto na figura abaixo:
 
-<img class=" aligncenter wp-image-5141" title="Arquitetura MQTT " src="http://www.yoctopuce.com/pubarchive/2016-11/topology_1.png">
+
   
 # Esquema Eletrico
 ------------------
