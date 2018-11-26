@@ -25,7 +25,9 @@
 </tr>
 
 <tr aling="center">
-  <td>
+  <td> 
+     <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://images.tcdn.com.br/img/img_prod/557243/kit_chassi_2wd_smart_robo_para_arduino_74_2_20170524163019.png" alt="Pinagem ESP8266 NodeMCU">
+    
    </td>
   <td>
     <img class=" alingcenter wp-image-5141" title="Montagem" src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg">
