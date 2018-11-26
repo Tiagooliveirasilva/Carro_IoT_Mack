@@ -26,8 +26,7 @@
 
 <tr aling="center">
   <td>
-     ![alt text](https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Esquema_Eletrico/EsquemaEletrico.jpg)" alt="Esquema Eletrico">
-  </td>
+   </td>
   <td>
     <img class=" alingcenter wp-image-5141" title="Montagem" src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg">
   </td>
