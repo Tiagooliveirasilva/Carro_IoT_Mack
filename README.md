@@ -11,7 +11,7 @@
 
 ## Descrição do projeto Robo IoT com ESP8266 NodeMCU
 O projeto consiste em um robô equipado com um módulo ESP8266  e MotorShiled NodeMCU, controlado via Internet por MQTT. Tal robô utilizará duas rodas para locomoção, sendo capaz de se movimentar em quatro direções: para frente, para tras, para esquerda e para a direita. 
-
+A interface controladora com o usuário será feita atraves do [<a href="https://www.sparkfun.com/products/12097">Blynk </a>]</td>
 
 ## Utilizar MQTT para este controle permitirá:
 
