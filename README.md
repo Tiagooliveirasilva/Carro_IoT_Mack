@@ -48,12 +48,25 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
    <img class=" aligncenter wp-image-5141" title="Kit Chassi 2WD" src="https://images.tcdn.com.br/img/img_prod/557243/kit_chassi_2wd_smart_robo_para_arduino_74_2_20170524163019.png" alt="Chassi 2WD">
   </td>
     
+    
  <tr align="center">
     <td>NodeMcu ESP8266 + MotorShield </td>
     <td>Pinagem MotorShield NodeMCU</td>
     <td>Chassi 2WD </td> 
   </tr>
 </tr>
+
+<tr aling="Center">
+  <td>
+     <img class=" aligncenter wp-image-5141" title="Montagem Final"        src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg" alt="Montagem Final">
+  </td>
+</tr>
+
+<tr align="center">
+    <td>Carro_IoT_Mackenzie </td> 
+  </tr>
+</tr>
+
 </table>
 
 
