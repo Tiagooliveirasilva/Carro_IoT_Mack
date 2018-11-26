@@ -19,7 +19,7 @@ Controle robô IoT com ESP8266 NodeMCU a partir de um aplicativo de qualquer lug
 
 O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado, pode ser visto na figura abaixo:
 
-<img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://uploads.filipeflop.com/2016/08/DiagramaRoboIoT.jpg">
+<img class=" aligncenter wp-image-5141" title="Arquitetura MQTT " src="http://www.yoctopuce.com/pubarchive/2016-11/topology_1.png">
   
 # Esquema Eletrico
 ------------------
