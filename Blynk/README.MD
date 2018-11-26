@@ -10,3 +10,5 @@ A estrutura da sua pasta your_sketchbook_folder agora deve estar assim, junto co
 ...
 * your_sketchbook_folder / tools / BlynkUpdater
 * your_sketchbook_folder / tools / BlynkUsbScript
+
+<img src="https://sites.google.com/site/led3dcube/_/rsrc/1489842828828/blynk/blynk_banner.png">
