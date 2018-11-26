@@ -13,7 +13,7 @@
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td> <img class=" aligncenter wp-image-5141" title="Pinagem NodeMCU" src="https://uploads.filipeflop.com/2016/02/Node-MCU-ESP-12E-Pin-Out-Diagram2.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648">
+   <td> <img class=" aligncenter wp-image-5141" title="Pinagem NodeMCU" src="https://c.76.my/Malaysia/nodemcu-motor-shield-board-l293d-esp8266-nodemcu-v2-npstore-1706-05-NPSTORE@1.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648">
     </td>  
     </td>
    <td>  
