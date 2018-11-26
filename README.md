@@ -52,10 +52,10 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado, pode ser vi
  <tr align="center">
     <td>NodeMcu ESP8266 + MotorShield </td>
     <td>Pinagem MotorShield NodeMCU</td>
-    <td>Chassi 2WD </td> 
+    <td>Chassi 2WD [<a href="https://www.sparkfun.com/products/12097"> - Montagem ]</td>
   </tr>
 </tr>
-
+ 
 <tr aling="Center">
   <td colspan="3">
      <img class=" aligncenter wp-image-5141" title="Montagem Final"        src="http://www.smartarduino.com/upfiles/card/resize_1431746175.jpg" alt="Montagem Final">
