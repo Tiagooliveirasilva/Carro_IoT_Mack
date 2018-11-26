@@ -69,7 +69,11 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 
 </table>
 
-
+# Como Utilizar
+---------------
+* **[Baize o Aplicativo Blynk para Android ou IOS](https://www.blynk.cc/)** 
+* **[escanear o código QR a partir da tela de login]
+ <img class=" aligncenter wp-image-5141" title="Montagem Final"        src="http://docs.blynk.cc/images/scan_qr.png">
 
 
 
