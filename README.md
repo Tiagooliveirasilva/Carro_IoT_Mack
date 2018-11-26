@@ -76,7 +76,8 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 <table>
   <tr>
     <td><img class=" aligncenter wp-image-5141" title="Montagem Final" src="http://docs.blynk.cc/images/scan_qr.png">  </td>
-    <td>codigo QR </td>
+    <td><img class=" alingcenter wp-image-5141" title="Montagem" src="https://raw.githubusercontent.com/Tiagooliveirasilva/Carro_IoT_Mack/master/Blynk/QR-CODE.jpg">     
+       </td>
   </tr>
 </table> 
  
