@@ -15,9 +15,9 @@ O projeto consiste em um robô equipado com um módulo ESP8266  e MotorShiled No
 
 ## Utilizar MQTT para este controle permitirá:
 
-Controle do robô IoT com ESP8266 NodeMCU a partir de um aplicativo
-Controle do robô de qualquer lugar do planeta que possua conexão com a Internet
-O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser visto na figura abaixo:
+Controle robô IoT com ESP8266 NodeMCU a partir de um aplicativo de qualquer lugar do planeta que possua conexão com a Internet
+
+O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado, pode ser visto na figura abaixo:
 
 <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://uploads.filipeflop.com/2016/08/DiagramaRoboIoT.jpg">
   
