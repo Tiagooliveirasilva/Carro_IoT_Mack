@@ -63,7 +63,7 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 </tr>
 
 <tr align="center">
-    <td>Carro_IoT_Mackenzie </td> 
+    <td colspan="3" >Carro_IoT_Mackenzie </td> 
   </tr>
 </tr>
 
