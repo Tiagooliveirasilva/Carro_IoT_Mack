@@ -39,12 +39,11 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 --------------
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td> <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://cdn.awsli.com.br/600x700/78/78150/produto/5484377/f6630d94d0.jpg">
-    </td>  
+   <td> <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield" src="https://cdn.awsli.com.br/600x700/78/78150/produto/5484377/f6630d94d0.jpg">
+   </td>  
    <td>  
-  <img class=" aligncenter wp-image-5141" title="Pinagem MotorShield NodeMCU" src="https://uploads.filipeflop.com/2017/07/6WL46.jpg" alt="Pinagem ESP8266 NodeMCU">
+      <img class=" aligncenter wp-image-5141" title="MotorShield NodeMCU" src="https://uploads.filipeflop.com/2017/07/6WL46.jpg"        alt="MotorShield">
 </td>  
-    <img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://images.tcdn.com.br/img/img_prod/557243/kit_chassi_2wd_smart_robo_para_arduino_74_2_20170524163019.png" alt="Pinagem ESP8266 NodeMCU">
  <td>
    <img class=" aligncenter wp-image-5141" title="Kit Chassi 2WD" src="https://uploads.filipeflop.com/2017/07/6WL46.jpg" alt="Chassi 2WD">
   </td>
@@ -52,7 +51,7 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
  <tr align="center">
     <td>NodeMcu ESP8266 + MotorShield </td>
     <td>Pinagem MotorShield NodeMCU</td>
-  <td>Chassi 2WD </td> 
+    <td>Chassi 2WD </td> 
   </tr>
 </tr>
 
