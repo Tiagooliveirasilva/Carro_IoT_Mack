@@ -8,6 +8,21 @@
 * Jose Elder Junior         - 4164709-2
 * Thiago Gonçalves da Silva - 4161373-2
 
+
+## Descrição do projeto Robo IoT com ESP8266 NodeMCU
+O projeto consiste em um robô equipado com um módulo ESP8266  e MotorShiled NodeMCU, controlado via Internet por MQTT. Tal robô utilizará duas rodas para locomoção, sendo capaz de se movimentar em quatro direções: para frente, para tras, para esquerda e para a direita. 
+
+
+##Utilizar MQTT para este controle permitirá:
+
+Controle do robô IoT com ESP8266 NodeMCU a partir de um aplicativo
+Controle do robô de qualquer lugar do planeta que possua conexão com a Internet
+O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser visto na figura abaixo:
+
+<img class=" aligncenter wp-image-5141" title="NodeMcu ESP8266 + MotorShield " src="https://uploads.filipeflop.com/2016/08/DiagramaRoboIoT.jpg">
+  
+
+
 # Carro_IoT_Mack
 
 <table class="table table-hover table-striped table-bordered">
