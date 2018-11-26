@@ -17,8 +17,13 @@
     </td>  
     </td>
    <td>  
-  <img class=" aligncenter wp-image-5141" title="MotorShield NodeMcu" src="https://http2.mlstatic.com/motor-shield-l293-arduino-carro-robo-para-nodemcu-D_NQ_NP_759725-MLB25496650854_042017-F.jpg" alt="Pinagem ESP8266 NodeMCU" width="777" height="648">
+  <img class=" aligncenter wp-image-5141" title="MotorShield NodeMcu" src="https://http2.mlstatic.com/motor-shield-l293-arduino-carro-robo-para-nodemcu-D_NQ_NP_759725-MLB25496650854_042017-F.jpg" alt="Pinagem ESP8266 NodeMCU">
 </td>  
+<tr>
+  <td colspan="2">
+     <img class=" aligncenter wp-image-5141" title="MotorShield NodeMcu" src="https://c.76.my/Malaysia/nodemcu-motor-shield-board-l293d-esp8266-nodemcu-v2-npstore-1706-05-NPSTORE@1.jpg" alt="Pinagem ESP8266 NodeMCU">
+  </td>
+  </tr>
     </tr>
   <tr align="center">
     <td>NodeMcu ESP8266 [<a href="https://www.sparkfun.com/products/12097">ROB-12097</a>]</td>
