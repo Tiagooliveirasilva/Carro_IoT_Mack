@@ -69,10 +69,10 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
 
 </table>
 
-# Como Utilizar
----------------
+# Acesso Compartilhado do Hardware
+----------------------------
 * **[Baize o Aplicativo Blynk para Android ou IOS](https://www.blynk.cc/)** 
-* **[escanear o código QR a partir da tela de login]
+* **escanear o código QR a partir da tela de login
 <table>
   <tr>
     <td><img class=" aligncenter wp-image-5141" title="Montagem Final" src="http://docs.blynk.cc/images/scan_qr.png">  </td>
@@ -81,23 +81,19 @@ O diagrama de como o robô IoT com ESP8266 NodeMCU será controlado pode ser vis
   </tr>
 </table> 
  
-
-
-
+ 
 Repository Contents
 -------------------
 
-* **/Documentation** - Documentation for the library's public API
-* **/Hardware** - Eagle PCB layout files
-* **/Libraries/Arduino/RedBot** - RedBot support library
-* **/Production** - Files to support SparkFun production
+* **/Blink** - Documentação do uso da biblioteca Blynk 
+* **/Hardware** - Documentação do Hardware 
+* **/SRC** - Codigo Fonte 
 
 Documentation
 --------------
 
 * **[Guia de Instalação Biblioteca Arduino](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](https://github.com/sparkfun/RedBot)** - Main repository (including hardware files) for the RedBot.
-* **[Library Repository](https://github.com/sparkfun/SparkFun_Redbot_Arduino_Library)** - Arduino library for the RedBot.
+* **[Product Repository](https://github.com/Tiagooliveirasilva/Carro_IoT_Mack)** - Main repository (including hardware files) for the Carro_IoT_Mackenzie.
 
 License Information
 -------------------
