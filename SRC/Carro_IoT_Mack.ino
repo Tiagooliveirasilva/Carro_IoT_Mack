@@ -7,9 +7,9 @@
 #define LeftMotorSpeed  5  
 #define LeftMotorDir    2
 
-char auth[] = "c3c2c48a6810490dad793d25e585f8b8";
-char ssid[] = "QG_TURCO";
-char pass[] = "Bolsonaro17";
+char auth[] = "Token";
+char ssid[] = "Wifi NetWork";
+char pass[] = "PassWord";
 
 int minRange = 312;
 int maxRange = 712;
