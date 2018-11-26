@@ -54,3 +54,26 @@
     <td> Esquema Elétrico [Carro_IoT_Mackenzie]  </td>
   </tr>
 </table>
+
+
+
+Repository Contents
+-------------------
+
+* **/Documentation** - Documentation for the library's public API
+* **/Hardware** - Eagle PCB layout files
+* **/Libraries/Arduino/RedBot** - RedBot support library
+* **/Production** - Files to support SparkFun production
+
+Documentation
+--------------
+
+* **[Guia de Instalação Biblioteca Arduino](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+* **[Product Repository](https://github.com/sparkfun/RedBot)** - Main repository (including hardware files) for the RedBot.
+* **[Library Repository](https://github.com/sparkfun/SparkFun_Redbot_Arduino_Library)** - Arduino library for the RedBot.
+
+License Information
+-------------------
+
+Este produto é  _**open source**_! 
+
